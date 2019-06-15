@@ -1,0 +1,15 @@
+{
+  "name": "soapy",
+  "version": "1.0.0",
+  "description": "quick SOAP test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "msp",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.27.1",
+    "yargs": "^13.2.4"
+  }
+}
